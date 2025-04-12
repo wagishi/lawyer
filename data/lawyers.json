@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "userType": "lawyer",
+    "createdAt": "2023-09-01T00:00:00.000Z",
+    "profile": {
+      "id": 1,
+      "userId": 1,
+      "specialization": "Family Law",
+      "yearsOfExperience": 8,
+      "location": "New York, NY",
+      "lawSchool": "Columbia Law School",
+      "barNumber": "NY12345",
+      "biography": "Jane Smith is a family law attorney with over 8 years of experience helping clients with divorce, child custody, and support issues. She is committed to helping families navigate challenging legal situations with compassion and expertise.",
+      "hourlyRate": 250,
+      "availability": "Weekdays 9am-5pm",
+      "languages": ["English", "Spanish"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/42.jpg",
+      "expertise": ["Divorce", "Child Custody", "Child Support", "Prenuptial Agreements", "Domestic Violence"],
+      "awards": ["Super Lawyers Rising Star 2021", "Family Law Attorney of the Year 2019"],
+      "publications": ["Modern Approaches to Family Law", "Navigating Child Custody in Complex Cases"],
+      "education": {
+        "lawSchool": {
+          "institution": "Columbia Law School",
+          "degree": "Juris Doctor",
+          "year": "2015"
+        },
+        "undergraduate": {
+          "institution": "New York University",
+          "degree": "Bachelor of Arts in Psychology",
+          "year": "2012"
+        }
+      },
+      "professionalAssociations": ["American Bar Association", "New York State Bar Association"]
+    }
+  },
+  {
+    "id": 2,
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email": "michael.johnson@example.com",
+    "userType": "lawyer",
+    "createdAt": "2023-08-15T00:00:00.000Z",
+    "profile": {
+      "id": 2,
+      "userId": 2,
+      "specialization": "Corporate Law",
+      "yearsOfExperience": 12,
+      "location": "San Francisco, CA",
+      "lawSchool": "Stanford Law School",
+      "barNumber": "CA54321",
+      "biography": "Michael Johnson is a corporate attorney with extensive experience in mergers and acquisitions, venture capital financing, and securities law. He has represented startups and established companies in various industries.",
+      "hourlyRate": 350,
+      "availability": "Weekdays 8am-7pm",
+      "languages": ["English", "Mandarin"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/32.jpg",
+      "expertise": ["Mergers & Acquisitions", "Venture Capital", "Securities Law", "Corporate Governance", "Business Formation"],
+      "awards": ["Top 40 Under 40 Corporate Attorneys", "Legal Excellence Award 2020"],
+      "publications": ["Startup Legal Handbook", "Corporate Compliance Guide"],
+      "education": {
+        "lawSchool": {
+          "institution": "Stanford Law School",
+          "degree": "Juris Doctor",
+          "year": "2011"
+        },
+        "undergraduate": {
+          "institution": "UC Berkeley",
+          "degree": "Bachelor of Science in Business Administration",
+          "year": "2008"
+        }
+      },
+      "professionalAssociations": ["American Bar Association", "California Bar Association"]
+    }
+  },
+  {
+    "id": 3,
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "email": "sarah.williams@example.com",
+    "userType": "lawyer",
+    "createdAt": "2023-07-20T00:00:00.000Z",
+    "profile": {
+      "id": 3,
+      "userId": 3,
+      "specialization": "Criminal Defense",
+      "yearsOfExperience": 15,
+      "location": "Chicago, IL",
+      "lawSchool": "Northwestern University School of Law",
+      "barNumber": "IL67890",
+      "biography": "Sarah Williams is a criminal defense attorney with 15 years of experience. She has successfully defended clients in state and federal courts against charges ranging from misdemeanors to serious felonies. Her dedication to justice and client advocacy has earned her a reputation as a formidable defender.",
+      "hourlyRate": 300,
+      "availability": "Weekdays and weekends by appointment",
+      "languages": ["English", "French"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/24.jpg",
+      "expertise": ["Criminal Defense", "White Collar Crime", "DUI Defense", "Federal Criminal Defense", "Appeals"],
+      "awards": ["Top Criminal Defense Attorney 2022", "Client Choice Award 2021"],
+      "publications": ["Understanding Your Rights During Arrest", "Criminal Defense Strategies"],
+      "education": {
+        "lawSchool": {
+          "institution": "Northwestern University School of Law",
+          "degree": "Juris Doctor",
+          "year": "2008"
+        },
+        "undergraduate": {
+          "institution": "University of Illinois",
+          "degree": "Bachelor of Arts in Criminal Justice",
+          "year": "2005"
+        }
+      },
+      "professionalAssociations": ["National Association of Criminal Defense Lawyers", "Illinois State Bar Association"]
+    }
+  },
+  {
+    "id": 4,
+    "firstName": "David",
+    "lastName": "Chen",
+    "email": "david.chen@example.com",
+    "userType": "lawyer",
+    "createdAt": "2023-06-10T00:00:00.000Z",
+    "profile": {
+      "id": 4,
+      "userId": 4,
+      "specialization": "Intellectual Property",
+      "yearsOfExperience": 10,
+      "location": "Boston, MA",
+      "lawSchool": "Harvard Law School",
+      "barNumber": "MA24680",
+      "biography": "David Chen specializes in intellectual property law with a focus on technology companies. He advises clients on patent, trademark, and copyright matters, as well as IP litigation and licensing. With a background in computer science, he brings technical expertise to complex IP issues.",
+      "hourlyRate": 325,
+      "availability": "Weekdays 9am-6pm",
+      "languages": ["English", "Mandarin", "Cantonese"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/67.jpg",
+      "expertise": ["Patent Law", "Trademark Law", "Copyright Law", "IP Litigation", "Technology Licensing"],
+      "awards": ["IP Star 2021", "Best Lawyers in America - IP Law"],
+      "publications": ["Protecting Software Innovations", "IP Strategy for Startups"],
+      "education": {
+        "lawSchool": {
+          "institution": "Harvard Law School",
+          "degree": "Juris Doctor",
+          "year": "2013"
+        },
+        "undergraduate": {
+          "institution": "MIT",
+          "degree": "Bachelor of Science in Computer Science",
+          "year": "2010"
+        }
+      },
+      "professionalAssociations": ["American Intellectual Property Law Association", "Boston Bar Association"]
+    }
+  },
+  {
+    "id": 5,
+    "firstName": "Emily",
+    "lastName": "Rodriguez",
+    "email": "emily.rodriguez@example.com",
+    "userType": "lawyer",
+    "createdAt": "2023-05-05T00:00:00.000Z",
+    "profile": {
+      "id": 5,
+      "userId": 5,
+      "specialization": "Immigration",
+      "yearsOfExperience": 7,
+      "location": "Los Angeles, CA",
+      "lawSchool": "UCLA School of Law",
+      "barNumber": "CA13579",
+      "biography": "Emily Rodriguez is an immigration attorney passionate about helping individuals and families navigate the complex U.S. immigration system. She handles family-based immigration, employment visas, asylum cases, and deportation defense, providing personalized guidance every step of the way.",
+      "hourlyRate": 200,
+      "availability": "Weekdays 8am-6pm, Saturday by appointment",
+      "languages": ["English", "Spanish", "Portuguese"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/54.jpg",
+      "expertise": ["Family-Based Immigration", "Employment Visas", "Asylum", "Deportation Defense", "Citizenship"],
+      "awards": ["Pro Bono Service Award 2022", "Immigrant Rights Defender"],
+      "publications": ["Navigating the U.S. Immigration System", "Family Reunification: A Guide"],
+      "education": {
+        "lawSchool": {
+          "institution": "UCLA School of Law",
+          "degree": "Juris Doctor",
+          "year": "2016"
+        },
+        "undergraduate": {
+          "institution": "UC San Diego",
+          "degree": "Bachelor of Arts in International Relations",
+          "year": "2013"
+        }
+      },
+      "professionalAssociations": ["American Immigration Lawyers Association", "California La Raza Lawyers Association"]
+    }
+  },
+  {
+    "id": 6,
+    "firstName": "Robert",
+    "lastName": "Thompson",
+    "email": "robert.thompson@example.com",
+    "userType": "lawyer",
+    "createdAt": "2023-04-15T00:00:00.000Z",
+    "profile": {
+      "id": 6,
+      "userId": 6,
+      "specialization": "Real Estate",
+      "yearsOfExperience": 18,
+      "location": "Miami, FL",
+      "lawSchool": "University of Miami School of Law",
+      "barNumber": "FL97531",
+      "biography": "Robert Thompson has nearly two decades of experience in real estate law. He represents clients in residential and commercial real estate transactions, development projects, and real estate litigation. His extensive knowledge of Florida property law makes him a trusted advisor for complex real estate matters.",
+      "hourlyRate": 275,
+      "availability": "Weekdays 9am-5pm",
+      "languages": ["English", "Spanish"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/45.jpg",
+      "expertise": ["Real Estate Transactions", "Commercial Property", "Residential Property", "Development", "Real Estate Litigation"],
+      "awards": ["Florida Real Estate Attorney of the Year", "AV Preeminent Rating"],
+      "publications": ["Florida Property Law Handbook", "Commercial Leasing: A Comprehensive Guide"],
+      "education": {
+        "lawSchool": {
+          "institution": "University of Miami School of Law",
+          "degree": "Juris Doctor",
+          "year": "2005"
+        },
+        "undergraduate": {
+          "institution": "University of Florida",
+          "degree": "Bachelor of Business Administration",
+          "year": "2002"
+        }
+      },
+      "professionalAssociations": ["Florida Bar Real Property Section", "American Land Title Association"]
+    }
+  }
+]
