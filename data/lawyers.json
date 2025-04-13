@@ -77,8 +77,8 @@
   },
   {
     "id": 3,
-    "firstName": "Sarah",
-    "lastName": "Williams",
+    "firstName": "sunita",
+    "lastName": "Arora",
     "email": "sarah.williams@example.com",
     "userType": "lawyer",
     "createdAt": "2023-07-20T00:00:00.000Z",
